@@ -5,16 +5,16 @@ MediTimeLine is a decentralized healthcare record management system that enables
 
 ## Features
 
-- 👤 Patient, Doctor, and Diagnostic Center Registration
-- 🔐 Secure EHR encryption using AES-256-GCM
-- ⛓️ Ethereum Smart Contracts for record management
-- 📁 Decentralized file storage using IPFS
-- 🔑 Role-based access control
-- 🤝 Patient-controlled permission management
-- 🩺 Doctor prescription generation
-- 🧪 Diagnostic report upload
-- 📜 Immutable audit trail of medical records
-- 🔄 Secure sharing of records with authorized healthcare providers
+- Patient, Doctor, and Diagnostic Center Registration
+- Secure EHR encryption using AES-256-GCM
+- Ethereum Smart Contracts for record management
+- Decentralized file storage using IPFS
+- Role-based access control
+- Patient-controlled permission management
+- Doctor prescription generation
+- Diagnostic report upload
+- Immutable audit trail of medical records
+- Secure sharing of records with authorized healthcare providers
 
 
 ## Tech Stack
@@ -73,7 +73,7 @@ MediTimeLine/
 
 ## Workflow
 
-1. Patient registers and receives a Healthcare ID (HH Number).
+1. Patient registers and receives a Healthcare ID.
 2. Doctors and Diagnostic Centers register using MetaMask.
 3. Patients upload encrypted medical records.
 4. Files are stored on IPFS.
